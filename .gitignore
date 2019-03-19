@@ -3,7 +3,6 @@
 !lib.a
 *.depend
 *.map
-*.lds
 *.lds.debug
 !u-boot.h
 !u-boot-arm.h
