@@ -1,0 +1,11 @@
+*.log
+*.[oa]
+!lib.a
+*.depend
+*.map
+u-boot*
+*/sdfuse_q/add_padding
+*/sdfuse_q/add_sign
+*/sdfuse_q/add_chksum
+*/lowlevel_init.S
+*/cpu_init.S
