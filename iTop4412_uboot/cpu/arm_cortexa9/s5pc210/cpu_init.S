@@ -1,0 +1,1 @@
+/home/cym/exynos4412/develop_board/new/iTop4412_uboot/cpu/arm_cortexa9/s5pc210/cpu_init_SCP.S

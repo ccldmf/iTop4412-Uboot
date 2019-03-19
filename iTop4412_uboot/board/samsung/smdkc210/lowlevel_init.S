@@ -1,0 +1,1 @@
+/home/cym/exynos4412/develop_board/new/iTop4412_uboot/board/samsung/smdkc210/lowlevel_init_SCP.S
