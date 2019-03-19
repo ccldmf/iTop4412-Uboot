@@ -1,1 +1,1 @@
-/home/cc/share/workspace/test/iTop4412-Uboot/iTop4412_uboot/board/samsung/smdkc210/lowlevel_init_SCP.S
+/home/cc/share/workspace/iTop4412-Uboot/iTop4412_uboot/board/samsung/smdkc210/lowlevel_init_SCP.S
